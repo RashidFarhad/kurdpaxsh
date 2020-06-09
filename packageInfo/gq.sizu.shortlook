@@ -1,0 +1,9 @@
+{
+	"name": "Shortlook",
+	"desc_short": "<strong>Your notifications. At a glance.</strong>",
+	"desc_long": "ShortLook displays on your locked iPhone as you receive a notification using it's beautiful full screen design, allowing for readability from a distance. Made to be as unobtrusive as possible, it dismisses as soon as you tap the screen or Raise to Wake. It's configurable UI and behaviours ensure that ShortLook works how you want it to work.",
+	"compatitle": "iOS 11 -  13.5",
+	"changelog": "<strong>1.0.17</strong><br>⦿ Fixed intermittent crashing for some users on iOS 11.<br>⦿ More fun under the hood changes!<br>",
+	"screenshot": "<div style='text-align:center;'><a href='https://repo-cdn.dynastic.co/87966724552392705.3a0a6aca8197f4f398e78aba28d45801-750' target='_blank'><img width=95% src='https://repo-cdn.dynastic.co/87966724552392705.3a0a6aca8197f4f398e78aba28d45801-750'/></a><a href='https://repo.dynastic.co/data/static/version/260152909679820800/260152910170554369?size=750' target='_blank'><img width=95% src='https://repo.dynastic.co/data/static/version/260152909679820800/260152910170554369?size=750'/></a><a href='https://repo.dynastic.co/data/static/version/260152909679820800/260152910170554370?size=750' target='_blank'><img width=95% src='https://repo.dynastic.co/data/static/version/260152909679820800/260152910170554370?size=750'/></a><a href='https://repo.dynastic.co/data/static/version/260152909679820800/260152910170554371?size=750' target='_blank'><img width=95% src='https://repo.dynastic.co/data/static/version/260152909679820800/260152910170554371?size=750'/></a><a href='https://repo.dynastic.co/data/static/version/260152909679820800/260152910174748672?size=750' target='_blank'><img width=95% src='https://repo.dynastic.co/data/static/version/260152909679820800/260152910174748672?size=750'/></a></div>",
+	"open": false,
+}

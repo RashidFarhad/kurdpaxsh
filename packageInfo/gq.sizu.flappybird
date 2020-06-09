@@ -1,0 +1,9 @@
+{
+	"name": "Flappy Bird",
+	"desc_short": "Good Old Flappy Bird",
+	//"desc_long": "PUBGM 0.18.0 Slider<br><b>Needs KernBypass</b>",
+	"compatitle": "iOS 13 -  13.5",
+	//"changelog": "<strong>2.1: June 1, 2020</strong><br>⦿ Improved the custom text section with stability and characters control for more speed.<br>",
+	"screenshot": "<div style='text-align:center;'><a href='https://github.com/brandonplank/flappybird/raw/master/demo/demo.gif' target='_blank'><img width=95% src='https://github.com/brandonplank/flappybird/raw/master/demo/demo.gif'/></a></div>",
+	"open": false,
+}
