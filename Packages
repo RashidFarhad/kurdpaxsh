@@ -54,3 +54,22 @@ MD5sum: 7c2f02cbf9f671c84da980831e59a359
 SHA1: 2cf964101f743becd6dbe71a0c0070684dddd04a
 SHA256: c1ac3ef7ca1c53789bf475f593a65abe01295fb470737193e1d3730a3090e994
 SHA512: 8bf936e75d809c41380e8609c208e79b76d1026d19952be555dcb268583c29a0e827e1d19f547d0d9ab63fbf9ffc9b6548a77255244608d5740bb91c3d624b99
+
+Package: ml.kurdpaxsh.flyjb
+Name: FlyJB
+Description: You can HIDE Doing jailbreak your iDevice.
+Size: 383524
+Version: 0.2.4.1
+Section: System
+Author: KurdPaxsh
+Maintainer: Sizar
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debfiles/ml.kurdpaxsh.flyjb_0.2.4.1_iphoneos-arm.deb
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.flyjb
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.flyjb
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+MD5sum: bc221973a21d27e4429106b0b28960b7
+SHA1: fef189b4938bad95c585036950f60495b891e192
+SHA256: 2cd251f64282fb5dea62aa6f7e11954d7fe8b6c35aed9423e0881dd3a1a716f6
+SHA512: 66b63a85426f290f47fafb8cb80add3072319d463c44e4348d32157588cd725ad31033d6b2801ac0e7280ee18d95d15a0a5d0e454b6ce8a3f9080de26b916a09
