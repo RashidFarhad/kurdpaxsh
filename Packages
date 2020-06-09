@@ -9,8 +9,8 @@ Section: Hacks
 Version: 1.13+
 Filename: ./debfiles/gq.sizu.ludostar_1.13+_iphoneos-arm.deb
 Size: 1543772
-Homepage: https://repo.sizu.gq/description.html?p=gq.sizu.ludostar
-Depiction: https://repo.sizu.gq/description.html?p=gq.sizu.ludostar
+Homepage: https://kurdpaxsh.ml/description.html?p=gq.sizu.ludostar
+Depiction: https://kurdpaxsh.ml/description.html?p=gq.sizu.ludostar
 MD5sum: 6bb31d6d58bd1826637ddccfc7c907eb
 SHA1: 136a5c920271a3e2fee12ff74b6d21151a74264a
 SHA256: 4ef22f63c327b094e348b10efd1c45ac272da2b9b440b5fa90e21ff059da2253
@@ -28,11 +28,11 @@ MD5sum: 6952c73375bcfff4770ef79038744642
 SHA1: dd84cf57644766ddc31bf79d2714c84f74de22bc
 SHA256: 7ce6271c034e2a0c1ed05c9931ba595b95a3df2a136ab13542f4267e9f7fe997
 SHA512: 5c63056292a79be7141d7a2a82e4a26b1ec4dac42198b46f6463ce8de92a4b14c6c44219fe8761eda7b831ea0566b92248eae14228f81831ae4ba48aacebbf49
-Homepage: https://repo.sizu.gq/description.html?p=gq.sizu.vpnmastervip
+Homepage: https://kurdpaxsh.ml/description.html?p=gq.sizu.vpnmastervip
 Description: VIP hack for VPNProxy Master app.
 Name: VPN Proxy Master Hack
 Author: Sizar
-Depiction: https://repo.sizu.gq/description.html?p=gq.sizu.vpnmastervip
+Depiction: https://kurdpaxsh.ml/description.html?p=gq.sizu.vpnmastervip
 Icon: file:///var/containers/Bundle/Application/124170B1-E03E-4632-82A2-8AE0651B6F2D/VPNMaster.app/AppIcon60x60@2x.png
 
 Package: gq.sizu.audiorecorderxs
@@ -52,8 +52,8 @@ SHA256: 1901021b9697af6836cf471e93504614e21a22fc65538a5b3a2d400aefc328ec
 SHA512: 56b48c2d4171c6776a264ec520dcb63963cb4928fbaede748105ca853c73296f13974309626bcf50b3f099108488c9fa4fbcec742c26b5986ef55102b1143918
 Maintainer: Sizar
 Author: Elias Limneos <limneoselias@gmail.com>
-Homepage: https://repo.sizu.gq/description.html?p=gq.sizu.audiorecorderxs
-Depiction: https://repo.sizu.gq/description.html?p=gq.sizu.audiorecorderxs
+Homepage: https://kurdpaxsh.ml/description.html?p=gq.sizu.audiorecorderxs
+Depiction: https://kurdpaxsh.ml/description.html?p=gq.sizu.audiorecorderxs
 Icon: file:///Library/PreferenceBundles/AudioRecorderPreferences.bundle/AudioRecorder@2x.png
 
 Package: gq.sizu.bioprotectxs
@@ -64,8 +64,8 @@ Filename: ./debfiles/gq.sizu.bioprotectxs_4.4-51_iphoneos-arm.deb
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12), gq.sizu.limneosos
 Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos, net.limneos.bioprotectxs
 Architecture: iphoneos-arm
-Homepage: https://repo.sizu.gq/description.html?p=gq.sizu.bioprotectxs
-Depiction: https://repo.sizu.gq/description.html?p=gq.sizu.bioprotectxs
+Homepage: https://kurdpaxsh.ml/description.html?p=gq.sizu.bioprotectxs
+Depiction: https://kurdpaxsh.ml/description.html?p=gq.sizu.bioprotectxs
 Size: 573616
 Maintainer: Sizar
 Author: Elias Limneos <limneoselias@gmail.com>
@@ -92,8 +92,8 @@ SHA256: 546759568cee0544669ffd1e953b0a72208717f1a7c45d6c695cc8fc264ccea0
 SHA512: 29da80c8a09fe6521f42198ad7f83a6122b79f96d16e0d199d388884344485733d846c3235001cea2fb56b91516647dd3286e774a0d87f4dc98b920ec7676b85
 Maintainer: Sizar
 Author: Elias Limneos <limneoselias@gmail.com>
-Homepage: https://repo.sizu.gq/description.html?p=gq.sizu.callbarxs
-Depiction: https://repo.sizu.gq/description.html?p=gq.sizu.callbarxs
+Homepage: https://kurdpaxsh.ml/description.html?p=gq.sizu.callbarxs
+Depiction: https://kurdpaxsh.ml/description.html?p=gq.sizu.callbarxs
 Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
 
 Package: gq.sizu.voicechangerx
@@ -104,8 +104,8 @@ Conflicts:  com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pul
 Version: 2.2-51
 Architecture: iphoneos-arm
 Description: Change your voice during a call!
-Homepage: https://repo.sizu.gq/description.html?p=gq.sizu.voicechangerx
-Depiction: https://repo.sizu.gq/description.html?p=gq.sizu.voicechangerx
+Homepage: https://kurdpaxsh.ml/description.html?p=gq.sizu.voicechangerx
+Depiction: https://kurdpaxsh.ml/description.html?p=gq.sizu.voicechangerx
 Maintainer: Sizar
 Author: Elias Limneos <limneoselias@gmail.com>
 Section: Tweaks
@@ -121,8 +121,8 @@ Name: Limneosos
 Description: Limneos Tweaks Crack!
 Version: 2.0.2
 Filename: ./debfiles/gq.sizu.limneosos_2.0.2_iphoneos-arm.deb
-Homepage: https://repo.sizu.gq/description.html?p=gq.sizu.limneosos
-Depiction: https://repo.sizu.gq/description.html?p=gq.sizu.limneosos
+Homepage: https://kurdpaxsh.ml/description.html?p=gq.sizu.limneosos
+Depiction: https://kurdpaxsh.ml/description.html?p=gq.sizu.limneosos
 Priority: optional
 Section: Cracks
 Maintainer: Elias Limneos <limneoselias@gmail.com>
@@ -150,8 +150,8 @@ Description: Sys-info or YOUR CUSTOM TEXT with terminal effect in Lockscreen.
 Name: Info 64
 Author: Plat-Ykor <plat-ykor@libero.it>
 Maintainer: Sizar
-Homepage: https://repo.sizu.gq/description.html?p=gq.sizu.info64
-Depiction: https://repo.sizu.gq/description.html?p=gq.sizu.info64
+Homepage: https://kurdpaxsh.ml/description.html?p=gq.sizu.info64
+Depiction: https://kurdpaxsh.ml/description.html?p=gq.sizu.info64
 
 Package: gq.sizu.slider
 Architecture: iphoneos-arm
@@ -168,8 +168,8 @@ Description: PUBGM 0.18.0 Slider (Use With KernBypass!).
 Name: PUBGM 0.18.0 Slider
 Author: Sizar
 Maintainer: Sizar
-Homepage: https://repo.sizu.gq/description.html?p=gq.sizu.slider
-Depiction: https://repo.sizu.gq/description.html?p=gq.sizu.slider
+Homepage: https://kurdpaxsh.ml/description.html?p=gq.sizu.slider
+Depiction: https://kurdpaxsh.ml/description.html?p=gq.sizu.slider
 Icon: file:///Library/PreferenceBundles/slideriprefs.bundle/iconlarge@2x.png
 
 Package: gq.sizu.flappybird
@@ -187,8 +187,8 @@ Description: A Flappy Bird clone that runs on the latest iOS!.
 Name: Flappy Bird
 Author: Sizar
 Maintainer: Sizar
-Homepage: https://repo.sizu.gq/description.html?p=gq.sizu.flappybird
-Depiction: https://repo.sizu.gq/description.html?p=gq.sizu.flappybird
+Homepage: https://kurdpaxsh.ml/description.html?p=gq.sizu.flappybird
+Depiction: https://kurdpaxsh.ml/description.html?p=gq.sizu.flappybird
 Icon: file:///Applications/Flappy Bird.app/AppIcon83.5x83.5@2x~ipad.png
 
 Package: gq.sizu.shortlook
@@ -206,8 +206,8 @@ Name: Shortlook
 Author: Dynastic
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
 Maintainer: Sizar
-Homepage: https://repo.sizu.gq/description.html?p=gq.sizu.shortlook
-Depiction: https://repo.sizu.gq/description.html?p=gq.sizu.shortlook
+Homepage: https://kurdpaxsh.ml/description.html?p=gq.sizu.shortlook
+Depiction: https://kurdpaxsh.ml/description.html?p=gq.sizu.shortlook
 
 Package: gq.sizu.shortlook.whatsapp
 Name: WhatsApp Profile Pictures for ShortLook
@@ -221,8 +221,8 @@ Size: 9236
 Description: Show WhatsApp users' profile pictures in ShortLook when you receive a WhatsApp notification!
 Author: Marco Roth
 Maintainer: Sizar
-Homepage: https://repo.sizu.gq/description.html?p=gq.sizu.shortlook.whatsapp
-Depiction: https://repo.sizu.gq/description.html?p=gq.sizu.shortlook.whatsapp
+Homepage: https://kurdpaxsh.ml/description.html?p=gq.sizu.shortlook.whatsapp
+Depiction: https://kurdpaxsh.ml/description.html?p=gq.sizu.shortlook.whatsapp
 MD5sum: ccff1382a2d8ef93898f95bcf6eb2d4d
 SHA1: 1deb045780434883312534a2ad65c9feef448626
 SHA256: 8afcddd53efd906e431cf85f159066053a83d97ccf5f40f13bfdc731d3aa3e1d
@@ -240,8 +240,8 @@ Section: Tweaks (ShortLook)
 Version: 1.0.2
 Filename: ./debfiles/gq.sizu.shortlook.instagram_1.0.2_iphoneos-arm.deb
 Size: 5912
-Homepage: https://repo.sizu.gq/description.html?p=gq.sizu.shortlook.instagram
-Depiction: https://repo.sizu.gq/description.html?p=gq.sizu.shortlook.instagram
+Homepage: https://kurdpaxsh.ml/description.html?p=gq.sizu.shortlook.instagram
+Depiction: https://kurdpaxsh.ml/description.html?p=gq.sizu.shortlook.instagram
 MD5sum: 183eb6a847394fd5859500770905ce2a
 SHA1: 8e934a39c439c3d9335a907660a1a2e141296088
 SHA256: 4e48af8055a98e5e99f1af53b16a727ec0136d85603a6f985b439d05edb2c2ce
@@ -259,8 +259,8 @@ Section: Tweaks (ShortLook)
 Version: 1.0.2
 Filename: ./debfiles/gq.sizu.shortlook.twitter_1.0.2_iphoneos-arm.deb
 Size: 6008
-Homepage: https://repo.sizu.gq/description.html?p=gq.sizu.shortlook.twitter
-Depiction: https://repo.sizu.gq/description.html?p=gq.sizu.shortlook.twitter
+Homepage: https://kurdpaxsh.ml/description.html?p=gq.sizu.shortlook.twitter
+Depiction: https://kurdpaxsh.ml/description.html?p=gq.sizu.shortlook.twitter
 MD5sum: ddc2fc396771550732f76b84090859a5
 SHA1: ae24d1acb3934d047069405413b96a0ce64fdc21
 SHA256: ca1bcfcf937e41e9874eb0ca9df72194737c68bb124025b0459e83264de0bee5
@@ -278,8 +278,8 @@ Section: Tweaks (ShortLook)
 Version: 1.0.2
 Filename: ./debfiles/gq.sizu.shortlook.messenger_1.0.2_iphoneos-arm.deb
 Size: 5516
-Homepage: https://repo.sizu.gq/description.html?p=gq.sizu.shortlook.messenger
-Depiction: https://repo.sizu.gq/description.html?p=gq.sizu.shortlook.messenger
+Homepage: https://kurdpaxsh.ml/description.html?p=gq.sizu.shortlook.messenger
+Depiction: https://kurdpaxsh.ml/description.html?p=gq.sizu.shortlook.messenger
 MD5sum: 395489d6efb778f20348da29575470d6
 SHA1: 154fe669e74488cfe04c02d89888e3d9780b67ae
 SHA256: c3946ca7201c9ff0f08893a8c100e8be858fd9be31a3f7a2c32eec4f2c1e605e
@@ -297,8 +297,8 @@ Section: Tweaks (ShortLook)
 Version: 1.0.2
 Filename: ./debfiles/gq.sizu.shortlook.snapchat_1.0.4.1_iphoneos-arm.deb
 Size: 6284
-Homepage: https://repo.sizu.gq/description.html?p=gq.sizu.shortlook.snapchat
-Depiction: https://repo.sizu.gq/description.html?p=gq.sizu.shortlook.snapchat
+Homepage: https://kurdpaxsh.ml/description.html?p=gq.sizu.shortlook.snapchat
+Depiction: https://kurdpaxsh.ml/description.html?p=gq.sizu.shortlook.snapchat
 MD5sum: 55ee055e53d7444dcaf962d726495768
 SHA1: f591f71f8a012e0f5db1f95cc57550005c884f3b
 SHA256: f4c77e4bbd725753969a008f206ef6832b3662c8cb7c875a079bea87f592bc33
@@ -320,7 +320,7 @@ Homepage: https://twitter.com/s1z4r
 Description: HomePlus Beta.
 Name: HomePlus Beta
 Author: Sizar
-Depiction: https://repo.sizu.gq/description.html?p=gq.sizu.homeplus
+Depiction: https://kurdpaxsh.ml/description.html?p=gq.sizu.homeplus
 
 Package: gq.sizu.betterccxi
 Architecture: iphoneos-arm
@@ -338,7 +338,7 @@ Homepage: https://twitter.com/s1z4r
 Description: BetterCCXI Cracked.
 Name: BetterCCXI
 Author: Sizar
-Depiction: https://repo.sizu.gq/description.html?p=gq.sizu.betterccxi
+Depiction: https://kurdpaxsh.ml/description.html?p=gq.sizu.betterccxi
 
 Package: gq.sizu.autotouch
 Architecture: iphoneos-arm
@@ -356,7 +356,7 @@ Homepage: https://twitter.com/s1z4r
 Description: Record and playback touch operations, play macro scripts automatically.
 Name: AutoTouch
 Author: Sizar
-Depiction: https://repo.sizu.gq/description.html?p=gq.sizu.autotouch
+Depiction: https://kurdpaxsh.ml/description.html?p=gq.sizu.autotouch
 
 Package: gq.sizu.appsyncunified
 Section: Tweaks
@@ -368,7 +368,7 @@ Provides: appsync
 Depends: firmware (>= 5.0), firmware (<= 13.5), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
-Depiction: https://repo.sizu.gq/description.html?p=gq.sizu.appsyncunified
+Depiction: https://kurdpaxsh.ml/description.html?p=gq.sizu.appsyncunified
 Homepage: https://twitter.com/s1z4r
 Name: AppSync Unified
 Author: Sizar
@@ -397,5 +397,5 @@ SHA256: bb514a745fe79df7450042ae2286313a44415d307887572fb896703fb396813e
 SHA512: eafc9cf2747d360ebbf88a2109b688e2755964bad6e9c22795657763d4167888d3571691da6fae3180ecbfa8d2170e9567bc185a1645b6a9a2d34ab0fc7547f8
 Homepage: https://twitter.com/s1z4r
 Description: Record and playback touch operations, play macro scripts automatically.
-Depiction: https://repo.sizu.gq/description.html?p=gq.sizu.st5
+Depiction: https://kurdpaxsh.ml/description.html?p=gq.sizu.st5
 Icon: https://repo.packix.com/api/Packages/5e3af7ebac886b002f929657/icon/download?size=medium
