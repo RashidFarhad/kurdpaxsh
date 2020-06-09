@@ -1,9 +1,0 @@
-{
-	"name": "Info 64",
-	"desc_short": "Info64 is an 80's terminal effect with detailed device informations in your lockscreen.",
-	"desc_long": "<strong>This is a tribute for the &quot;Intex Systems&quot; in Alien Breed, </strong><span style='color:#555555;background-color:transparent'>© </span><strong>by Team 17. </strong><br />Configure it on settings and <strong>double tap WITH 2 FINGERS</strong> in your lockscreen to show&#x2F;hide.</p>",
-	"compatitle": "iOS 13 -  13.5",
-	"changelog": "<strong>2.1: June 1, 2020</strong><br>⦿ Improved the custom text section with stability and characters control for more speed.<br>",
-	"screenshot": "<div style='text-align:center;'><a href='https://repo.packix.com/api/Packages/5eb586ac175459001abe1418/screenshots/5eb5b889d47221001c7a5fe1/download?size=full' target='_blank'><img width=95% src='https://repo.packix.com/api/Packages/5eb586ac175459001abe1418/screenshots/5eb5b889d47221001c7a5fe1/download?size=medium'/></a><a href='ttps://repo.packix.com/api/Packages/5eb586ac175459001abe1418/screenshots/5eb5b8a7bc21ab001a8ae280/download?size=full' target='_blank'><img width=95% src='https://repo.packix.com/api/Packages/5eb586ac175459001abe1418/screenshots/5eb5b8a7bc21ab001a8ae280/download?size=medium'/></a><a href='https://repo.packix.com/api/Packages/5eb586ac175459001abe1418/screenshots/5eb5b8b6175459001abe169c/download?size=full' target='_blank'><img width=95% src='https://repo.packix.com/api/Packages/5eb586ac175459001abe1418/screenshots/5eb5b8b6175459001abe169c/download?size=medium'/></a></div>",
-	"open": false,
-}

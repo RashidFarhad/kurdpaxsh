@@ -1,9 +1,0 @@
-{
-	"name": "Limneosos",
-	"desc_short": "Limneosos",
-	"desc_long": "This tweak will allow you to freely use all the tweaks from limneos.<br> You can even install them from the official repository.",
-	"compatitle": "iOS 10 - 13.5",
-	"changelog": "<strong>2.0.2</strong><br> ⦿ Fixed NFCWriter.<br>",
-	//"screenshot": "<div style='text-align:center;'><a href='https://kurdpaxsh.ml/Test.png' target='_blank'><img width=95% src='https://kurdpaxsh.ml/Test.png'/></a><br></div>",
-	"open": false,
-}

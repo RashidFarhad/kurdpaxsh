@@ -1,8 +1,11 @@
-Origin: KURDPAXSH
-Label: KURDPAXSH
+Origin: KURDPAXSH Repo
+Label: KURDPAXSH Repo
 Suite: stable
 Version: 1.0
 Codename: sizar
 Architecture: iphoneos-arm
 Components: main
-Description: Sizar's Tweaks
+Description: Created By @s1z4r.
+MD5Sum:
+ 34622a56c49dc85f17e043abbd0a416f 777 Packages
+ 4d5cff1845f1c877ee816761ad861fe4 565 Packages.bz2

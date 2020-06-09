@@ -1,0 +1,15 @@
+Package: ml.kurdpaxsh.istec
+Name: ISTEC
+Version: 2.2.0
+Description: SharpShooter For PUBG
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.aka.istec
+Priority: optional
+Architecture: iphoneos-arm
+Author: Aka
+dev: Sizar
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.istec
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.istec
+Maintainer: Sizar
+Icon: file:///var/containers/Bundle/Application/F00B8AA0-842B-433D-B3AC-75C94E848813/ShadowTrackerExtra.app/Icon144.png
