@@ -130,3 +130,24 @@ MD5sum: 9dd80b5a909f632627bd711301a2f456
 SHA1: a427bac2fd25a88ad65efb3615fc000acf17924e
 SHA256: c557a2924a2f090b0851da1ccb28b440b57bd3d9bd1447ad869f85f89c673557
 SHA512: 734a53221dd36cedf7423274598e2a209b768114387760720c3fe686e6cec25b0c96eeb7452a7304bf940c4d6e05a8099e73a846a58bb33c32fa2f6e9152a2da
+
+Package: ml.kurdpaxsh.choicy
+Name: Choicy
+Description: Advanced Tweak Configuration!
+Size: 90524
+Version: 1.2.2
+Section: Tweaks
+Author: opa334 <opa334@protonmail.com>
+Maintainer: Sizar
+Architecture: iphoneos-arm
+Installed-Size: 776
+Conflicts: com.opa334.choicy
+Depends: mobilesubstrate, applist
+Filename: ./debfiles/ml.kurdpaxsh.choicy_1.2.2_iphoneos-arm.deb
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.choicy
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.choicy
+Icon: file:///Library/PreferenceBundles/ChoicyPrefs.bundle/ChoicyIcon@3x.png
+MD5sum: e0566864ad2bf86fd8eb357546d7ae37
+SHA1: 86db5d62bc17b75ae09670cec63eff80cb45d8a8
+SHA256: b563e5f1567ad377be5cdcd9e639b3b66a1ab5abeb3c2391f2ea1673826f8722
+SHA512: 169af7d5cbb92c225375c7b71ae4834f0eae1ac8b62ad9f9da1185266289a511819c9a2f03234a0747d0e0b2847d2379fd03b97f126683eefe833a6478773e15

@@ -1,4 +1,11 @@
 [{
+	"size": 90524,
+	"time": 1591743895,
+	"package": "ml.kurdpaxsh.choicy",
+	"version": "1.2.2",
+	"name": "Choicy",
+	"section": "Tweaks"
+}, {
 	"size": 31184,
 	"time": 1591740409,
 	"package": "ml.kurdpaxsh.a-bypass",
