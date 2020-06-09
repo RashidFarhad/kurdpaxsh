@@ -3,7 +3,7 @@
 	"desc_short": "SharpShooter For PUBG",
 	"desc_long": " - ESP ‬<br> - Switch ‬<br> - Player ‬<br> - TombBox ‬<br> - Vehicle ‬<br> - AirDrop ‬<br> - tam's‬<br> - Aimbot‬<br>And more!",
 	"compatitle": "iOS 13 -  13.5",
-	//"changelog": "<strong>5.1.6: May 23, 2020</strong><br>⦿ Support for 13.5<br> ⦿  More coming soon<br><br><strong>5.1.5: May 1, 2020</strong><br> ⦿  Fix Folder Size after closing.<br> ⦿ Fix Status Bar not disappearing when editing.<br> ⦿ Adds Option set carrier as time<br> ⦿ Adds Option to set custom time format<br> ⦿ Adds option to make moving with small icons easier<br> ⦿ Improve Disabling SpringBoard Rotation<br> ⦿ Temperature as a time option<br> ⦿ Conditions as a time option<br>",
+	"changelog": "<strong>2.2.0</strong><br>⦿ fully fix the black screen or crash issues when starting the game.<br><br><strong>2.1.5</strong><br> ⦿  Initial release<br>",
 	"screenshot": "<div style='text-align:center;'><a href='packagescreenshots/ml.kurdpaxsh.istec/1.jpg' target='_blank'><img width=95% src='packagescreenshots/ml.kurdpaxsh.istec/1.jpg'/></a><a href='packagescreenshots/ml.kurdpaxsh.istec/2.jpg' target='_blank'><img width=95% src='packagescreenshots/ml.kurdpaxsh.istec/2.jpg'/></a><a href='packagescreenshots/ml.kurdpaxsh.istec/3.jpg' target='_blank'><img width=95% src='packagescreenshots/ml.kurdpaxsh.istec/3.jpg'/></a><a href='packagescreenshots/ml.kurdpaxsh.istec/4.jpg' target='_blank'><img width=95% src='packagescreenshots/ml.kurdpaxsh.istec/4.jpg'/></a><a href='packagescreenshots/ml.kurdpaxsh.istec/5.jpg' target='_blank'><img width=95% src='packagescreenshots/ml.kurdpaxsh.istec/5.jpg'/></a></div>",
 	"open": false,
 }

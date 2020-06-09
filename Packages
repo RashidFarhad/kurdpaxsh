@@ -3,11 +3,30 @@ Name: ISTEC
 Description: SharpShooter For PUBG
 Size: 49341328
 Version: 2.2.0
-Section: Tweaks
+Section: Tweaks (Pubg)
 Author: Aka
 Maintainer: Sizar
 Depends:mobilesubstrate
 Filename: ./debfiles/ml.kurdpaxsh.istec_2.2.0_iphoneos-arm.deb
+Homepage: http://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.istec
+Depiction: http://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.istec
+Icon: file:///Library/PreferenceBundles/slideriprefs.bundle/iconlarge@2x.png
+Architecture: iphoneos-arm
+MD5sum: 9fc088705af3eef64791a73ee13f686e
+SHA1: d7b55219706a977e980210f2e8412780a61cb5f1
+SHA256: 342d4aeabc08f41a5edd55b97d7541326e7782b35e205c4b192a809459956732
+SHA512: 4e1397af5ffae40b8fbaa7011ab2bd786deabe733402cd2e28ec4e58aa2d41c7fd4508e9d7ef938ef2d13aeddb939ac0d0d748af1a71a8d67bf1eb3ef8de0c42
+
+Package: ml.kurdpaxsh.istec
+Name: ISTEC
+Description: SharpShooter For PUBG
+Size: 49341328
+Version: 2.1.5
+Section: Tweaks (Pubg)
+Author: Aka
+Maintainer: Sizar
+Depends:mobilesubstrate
+Filename: ./debfiles/ml.kurdpaxsh.istec_2.1.5_iphoneos-arm.deb
 Homepage: http://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.istec
 Depiction: http://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.istec
 Icon: file:///Library/PreferenceBundles/slideriprefs.bundle/iconlarge@2x.png
@@ -22,7 +41,7 @@ Name: Antiban 0.18.0
 Description: Antiban For PUBG 0.18.0
 Size: 1229936
 Version: 0.1.2
-Section: Tweaks
+Section: Tweaks (Pubg)
 Author: KurdPaxsh
 Maintainer: Sizar
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -60,7 +79,7 @@ Name: FlyJB
 Description: You can HIDE Doing jailbreak your iDevice.
 Size: 383524
 Version: 0.2.4.1
-Section: System
+Section: Tweaks
 Author: KurdPaxsh
 Maintainer: Sizar
 Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
@@ -73,3 +92,41 @@ MD5sum: bc221973a21d27e4429106b0b28960b7
 SHA1: fef189b4938bad95c585036950f60495b891e192
 SHA256: 2cd251f64282fb5dea62aa6f7e11954d7fe8b6c35aed9423e0881dd3a1a716f6
 SHA512: 66b63a85426f290f47fafb8cb80add3072319d463c44e4348d32157588cd725ad31033d6b2801ac0e7280ee18d95d15a0a5d0e454b6ce8a3f9080de26b916a09
+
+Package: ml.kurdpaxsh.flyjb
+Name: FlyJB
+Description: You can HIDE Doing jailbreak your iDevice.
+Size: 383524
+Version: 0.2.5.3
+Section: System
+Author: KurdPaxsh
+Maintainer: Sizar
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debfiles/ml.kurdpaxsh.flyjb_0.2.5.3_iphoneos-arm.deb
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.flyjb
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.flyjb
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+MD5sum: bc221973a21d27e4429106b0b28960b7
+SHA1: fef189b4938bad95c585036950f60495b891e192
+SHA256: 2cd251f64282fb5dea62aa6f7e11954d7fe8b6c35aed9423e0881dd3a1a716f6
+SHA512: 66b63a85426f290f47fafb8cb80add3072319d463c44e4348d32157588cd725ad31033d6b2801ac0e7280ee18d95d15a0a5d0e454b6ce8a3f9080de26b916a09
+
+Package: ml.kurdpaxsh.a-bypass
+Name: A-Bypass
+Description: Super Jailbreak detection bypass!
+Size: 31184
+Version: 0.2.5.3
+Section: System
+Author: KurdPaxsh
+Maintainer: Sizar
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Architecture: iphoneos-arm
+Filename: ./debfiles/ml.kurdpaxsh.a-bypass_1.0.7_iphoneos-arm.deb
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.a-bypass
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.a-bypass
+Icon: file:///Library/PreferenceBundles/ABypassPrefs.bundle/icon@2x.png
+MD5sum: 9dd80b5a909f632627bd711301a2f456
+SHA1: a427bac2fd25a88ad65efb3615fc000acf17924e
+SHA256: c557a2924a2f090b0851da1ccb28b440b57bd3d9bd1447ad869f85f89c673557
+SHA512: 734a53221dd36cedf7423274598e2a209b768114387760720c3fe686e6cec25b0c96eeb7452a7304bf940c4d6e05a8099e73a846a58bb33c32fa2f6e9152a2da
