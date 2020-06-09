@@ -1,6 +1,13 @@
 [{
 	"size": 1229936,
 	"time": 1591702508,
+	"package": "ml.kurdpaxsh.kernbypass",
+	"version": "0.0.1",
+	"name": "KernBypass",
+	"section": "Tweaks"
+},{
+	"size": 1229936,
+	"time": 1591702508,
 	"package": "ml.kurdpaxsh.antiban",
 	"version": "0.1.2",
 	"name": "Antiban 0.18.0",

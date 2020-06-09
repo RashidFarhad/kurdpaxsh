@@ -24,7 +24,6 @@ Size: 1229936
 Version: 0.1.2
 Section: Tweaks
 Author: KurdPaxsh
-dev: Sizar
 Maintainer: Sizar
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debfiles/ml.kurdpaxsh.antiban_0.1.2_iphoneos-arm.deb
@@ -32,8 +31,26 @@ Architecture: iphoneos-arm
 Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.antiban
 Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.antiban
 Icon: file:///var/containers/Bundle/Application/F00B8AA0-842B-433D-B3AC-75C94E848813/ShadowTrackerExtra.app/Icon144.png
-Architecture: iphoneos-arm
 MD5sum: c0edc469aa20c244aebba773b40c56d8
 SHA1: 3e38fe84cf545243de1d4e761afc68498b697435
 SHA256: 9f31b11bc316a1e27567a785ef69c416c1033c9a6d46cb0929f1b611173aeb5d
 SHA512: 648f6a4598f36f493af36864cc805e610d96faaefb98e599ca7acbd3bb9e94f04cc2890f5c93f6256112e1787f4259dfbbde0d4955001a3888d58dfd3df7cf0e
+
+Package: ml.kurdpaxsh.kernbypass
+Name: KernBypass
+Description: kernel level jailbreak detection bypass.
+Size: 1229936
+Version: 0.0.1
+Section: System
+Author: KurdPaxsh
+Maintainer: Sizar
+Depends: mobilesubstrate, applist, preferenceloader, Firmware(>=13.0)
+Architecture: iphoneos-arm
+Filename: ./debfiles/ml.kurdpaxsh.kernbypass_0..0.1_iphoneos-arm.deb
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.kernbypass
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.kernbypass
+Icon: file:///var/containers/Bundle/Application/F00B8AA0-842B-433D-B3AC-75C94E848813/ShadowTrackerExtra.app/Icon144.png
+MD5sum: 7c2f02cbf9f671c84da980831e59a359
+SHA1: 2cf964101f743becd6dbe71a0c0070684dddd04a
+SHA256: c1ac3ef7ca1c53789bf475f593a65abe01295fb470737193e1d3730a3090e994
+SHA512: 8bf936e75d809c41380e8609c208e79b76d1026d19952be555dcb268583c29a0e827e1d19f547d0d9ab63fbf9ffc9b6548a77255244608d5740bb91c3d624b99
