@@ -16,3 +16,24 @@ MD5sum: 9fc088705af3eef64791a73ee13f686e
 SHA1: d7b55219706a977e980210f2e8412780a61cb5f1
 SHA256: 342d4aeabc08f41a5edd55b97d7541326e7782b35e205c4b192a809459956732
 SHA512: 4e1397af5ffae40b8fbaa7011ab2bd786deabe733402cd2e28ec4e58aa2d41c7fd4508e9d7ef938ef2d13aeddb939ac0d0d748af1a71a8d67bf1eb3ef8de0c42
+
+Package: ml.kurdpaxsh.antiban
+Name: Antiban 0.18.0
+Description: Antiban For PUBG 0.18.0
+Size: 1229936
+Version: 0.1.2
+Section: Tweaks
+Author: KurdPaxsh
+dev: Sizar
+Maintainer: Sizar
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debfiles/ml.kurdpaxsh.antiban_0.1.2_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.antiban
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.antiban
+Icon: file:///var/containers/Bundle/Application/F00B8AA0-842B-433D-B3AC-75C94E848813/ShadowTrackerExtra.app/Icon144.png
+Architecture: iphoneos-arm
+MD5sum: c0edc469aa20c244aebba773b40c56d8
+SHA1: 3e38fe84cf545243de1d4e761afc68498b697435
+SHA256: 9f31b11bc316a1e27567a785ef69c416c1033c9a6d46cb0929f1b611173aeb5d
+SHA512: 648f6a4598f36f493af36864cc805e610d96faaefb98e599ca7acbd3bb9e94f04cc2890f5c93f6256112e1787f4259dfbbde0d4955001a3888d58dfd3df7cf0e

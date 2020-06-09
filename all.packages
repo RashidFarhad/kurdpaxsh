@@ -1,1 +1,15 @@
-[{"size":49341328,"time":1591698636,"package":"ml.kurdpaxsh.istec","version":"2.2.0","name":"ISTEC","section":"Tweaks"}]
+[{
+	"size": 1229936,
+	"time": 1591702508,
+	"package": "ml.kurdpaxsh.antiban",
+	"version": "0.1.2",
+	"name": "Antiban 0.18.0",
+	"section": "Tweaks"
+}, {
+	"size": 49341328,
+	"time": 1591698636,
+	"package": "ml.kurdpaxsh.istec",
+	"version": "2.2.0",
+	"name": "ISTEC",
+	"section": "Tweaks"
+}]
