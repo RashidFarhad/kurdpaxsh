@@ -1,4 +1,11 @@
 [{
+	"size": 143592,
+	"time": 1591747225,
+	"package": "ml.kurdpaxsh.hidejblite",
+	"version": "1.0",
+	"name": "HideJB Lite",
+	"section": "Tweaks"
+}, {
 	"size": 90524,
 	"time": 1591743895,
 	"package": "ml.kurdpaxsh.choicy",
@@ -23,7 +30,7 @@
 	"size": 1229936,
 	"time": 1591702508,
 	"package": "ml.kurdpaxsh.kernbypass",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"name": "KernBypass",
 	"section": "System"
 }, {
@@ -37,7 +44,7 @@
 	"size": 49341328,
 	"time": 1591698636,
 	"package": "ml.kurdpaxsh.istec",
-	"version": "2.2.0",
+	"version": "2.2.4",
 	"name": "ISTEC",
 	"section": "Tweaks"
 }]
