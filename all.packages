@@ -1,6 +1,27 @@
 [{
+	"size": 201232,
+	"time": 1591846429,
+	"package": "ml.kurdpaxsh.dlgmemorinjected",
+	"version": "13.5",
+	"name": "DLGMemor Injected",
+	"section": "Utilities"
+}, {
+	"size": 2458044,
+	"time": 1591846429,
+	"package": "ml.kurdpaxsh.appdatamanager",
+	"version": "1.5.3",
+	"name": "Apps Manager",
+	"section": "Utilities"
+}, {
+	"size": 2860340,
+	"time": 1591846429,
+	"package": "ml.kurdpaxsh.memsearch",
+	"version": "1.5",
+	"name": "GameGem",
+	"section": "Utilities"
+}, {
 	"size": 143592,
-	"time": 1591836594,
+	"time": 1591846429,
 	"package": "ml.kurdpaxsh.hidejblite",
 	"version": "1.0",
 	"name": "HideJB Lite",

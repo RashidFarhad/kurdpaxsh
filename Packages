@@ -210,3 +210,63 @@ MD5sum: 44c9676d4c54edfe4c60ca519f3ee8e3
 SHA1: 0c8ecc606169bcd1e80b34628d97c09e083f42ec
 SHA256: 66c6ababe2c18b81e13fb418c0d0f4cbfc47c68306901d5df9e4a846bfe0bb5e
 SHA512: 56c6f29adeed52279d50352252e8c0af4384e162d4b5195332d2b1f4ba77b12e735d8f98e294f19c6ae0ab6d8da64f0ed19e16a6f1c81fae496040bbf0a48c23
+
+Package: ml.kurdpaxsh.memsearch
+Name: GameGem
+Description: Memory debug tool for iOS. Support iPhone and iPad above iOS 8.x
+Size: 2860340
+Version: 1.5
+Section: Utilities
+Author: Aidoo.TK <aidoo.tk@gmail.com>
+Maintainer: Sizar
+Architecture: iphoneos-arm
+Depends: firmware (>= 8.0)
+Conflicts: com.aidoo.memsearch
+Filename: ./debfiles/ml.kurdpaxsh.memsearch_1.5_iphoneos-arm.deb
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.gamegem
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.gamegem
+Icon: file:///Applications/GameGemiOS.app/AppIcon29x29@2x.png
+MD5sum: 69e06255a760709ffd7eee2470f0c498
+SHA1: 071a8eaee758d5aab3aa0743f85efcc808d3e9e7
+SHA256: c4955faac8cb85cff09d0bdf2fe4527b6e1f6df7629567dce10810219770ff92
+SHA512: 47db807f9e9afc0165d54845a2eec0949dae0f0fafdd11fd0cf82eaab89e4ae0cdf5aae2b6a7e58243a0cc0f2f608efa3442ff567f71dbc7628b94cdee1c102c
+
+Package: ml.kurdpaxsh.appdatamanager
+Name: Apps Manager
+Description: tool to WIPE, BACKUP, RESTORE AppData for installed Apps
+Size: 2458044
+Version: 1.5.3
+Section: Utilities
+Maintainer: Sizar
+Author: TIGI Software <satashi2009@gmail.com>
+Depends: firmware (>= 7.0)
+Conflicts: com.tigisoftware.appdatamanager
+Filename: ./debfiles/ml.kurdpaxsh.appdatamanager_1.5.3_iphoneos-arm.deb
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.appsmanager
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.appsmanager
+Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
+Architecture: iphoneos-arm
+MD5sum: aee0d2f7ed5ab6dad4ff2409d9e9277b
+SHA1: 4d2a4c1f90dedbd887e98b616657e8c280b4a87e
+SHA256: cfed67207522f492bb075c461af954c1f7545211d2455d2669fb7338b1e38678
+SHA512: 18a152e00be6ca5c636505241b2e43876d607dc5a3fcfe422501b0083d9b3fdbec2e3c6ab26d9c0c85d9d42a4dc63c871b31cd924682f716b6bdfc9c7ae45006
+
+Package: ml.kurdpaxsh.dlgmemorinjected
+Name: DLGMemor Injected
+Description: Injection library that allows you to alter memory in app.
+Size: 201232
+Version: 13.5
+Section: Utilities
+Maintainer: Sizar
+Author: Richard Applegate <support@x4-Applegate.com>
+Depends: firmware (>= 11), mobilesubstrate, preferenceloader, applist
+Conflicts: com.x4-Applegate.dlgmemorinjected
+Filename: ./debfiles/ml.kurdpaxsh.dlgmemorinjected_13.5_iphoneos-arm.deb
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.dlgmemorinjected
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.dlgmemorinjected
+Icon: file:///Library/PreferenceLoader/Preferences/DLGMemorInjected@2x.png
+Architecture: iphoneos-arm
+MD5sum: 2bf5340aa1e40521fd49a22255bc1387
+SHA1: a07cb82ce89f663cc4f7241cbce9b1da2c127503
+SHA256: 6e8184b7b65d6603ebb327cef92b7daee1a117bd00e099744758539a4e7d3369
+SHA512: a0cd57e54a4651279363f6b7e24dbecc4859e61e8c1f00fc1741250c6b284a953f8a923702c69669fecca13adcaedd5dafc63f7923120cdf0698a670cc02a7db
