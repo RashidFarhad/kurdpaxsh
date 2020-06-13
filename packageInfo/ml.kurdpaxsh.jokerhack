@@ -1,0 +1,9 @@
+{
+	"name": "Joker ModMenu",
+	"desc_short": "ModMenu For PUBG 0.18.0",
+	"desc_long": "NO GRASS, NO RECOIL, NO SPREAD, CAR SIZE, FAST MOVE, HIGH JUMP, HIFH CAR VIEW, HIDE CAR.<br><br><b>Don't Use Your own Account<br>Use at Your oun Risk!</b>",
+	"compatitle": "iOS 13 -  13.5",
+	//"changelog": "<strong>5.1.6: May 23, 2020</strong><br>⦿ Support for 13.5<br> ⦿  More coming soon<br><br><strong>5.1.5: May 1, 2020</strong><br> ⦿  Fix Folder Size after closing.<br> ⦿ Fix Status Bar not disappearing when editing.<br> ⦿ Adds Option set carrier as time<br> ⦿ Adds Option to set custom time format<br> ⦿ Adds option to make moving with small icons easier<br> ⦿ Improve Disabling SpringBoard Rotation<br> ⦿ Temperature as a time option<br> ⦿ Conditions as a time option<br>",
+	"screenshot": "<div style='text-align:center;'><a href='packagescreenshots/ml.kurdpaxsh.jokerhack/1.png' target='_blank'><img width=95% src='packagescreenshots/ml.kurdpaxsh.jokerhack/1.png'/></a><a href='packagescreenshots/ml.kurdpaxsh.jokerhack/2.png' target='_blank'><img width=95% src='packagescreenshots/ml.kurdpaxsh.jokerhack/2.png'/></a></div>",
+	"open": false,
+}

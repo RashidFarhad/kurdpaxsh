@@ -93,6 +93,25 @@ SHA1: 04be557b4b0ecf50e29ed6d246d1890329491975
 SHA256: 109fe28be69d396d7daf3f08ca9c60f917fe24c41b0ebb084bf99aaf5794baf7
 SHA512: 46b5b891b66b29d95a60d1138b540fc17d42ff0ef8a4133b687a5068a5065d616d6e9e6a674d4bf2944207445d73dbbb363a3f4e5129b8331679210453f4802c
 
+Package: ml.kurdpaxsh.jokerhack
+Name: Joker ModMenu 0.18.0
+Description: Pubg Hack v0.18.0 Mod Menu
+Size: 479808
+Version: 0.3.6
+Section: Tweaks (Pubg)
+Author: KurdPaxsh
+Maintainer: Sizar
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debfiles/ml.kurdpaxsh.jokerhack_0.3.6_iphoneos-arm.deb
+Homepage: http://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.jokerhack
+Depiction: http://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.jokerhack
+Icon: file:///var/containers/Bundle/Application/F00B8AA0-842B-433D-B3AC-75C94E848813/ShadowTrackerExtra.app/Icon144.png
+MD5sum: 3a8dbd2795fe2c15778343dd76a471fb
+SHA1: 270ae67ce71cf8256f2e5eacc6b6f71ec7b14051
+SHA256: b765ae77f00b0507c96878766244ad27415bae34fdb48779a47f975c5dd6d06b
+SHA512: ff2d664ca71eabe5dbb5be625221d69c2eeedf946b4b8871cc24b6d73777887c8cb000597d94fb37ac05fced78d152082019810a9941483df92a7449083836d2
+
 Package: ml.kurdpaxsh.kernbypass
 Name: KernBypass
 Description: kernel level jailbreak detection bypass.

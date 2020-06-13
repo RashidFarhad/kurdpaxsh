@@ -1,4 +1,11 @@
 [{
+	"size": 479808,
+	"time": 1592040330,
+	"package": "ml.kurdpaxsh.jokerhack",
+	"version": "0.3.6",
+	"name": "Joker ModMenu 0.18.0",
+	"section": "Tweaks"
+}, {
 	"size": 201232,
 	"time": 1591846429,
 	"package": "ml.kurdpaxsh.dlgmemorinjected",
