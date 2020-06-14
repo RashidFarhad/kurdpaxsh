@@ -188,6 +188,25 @@ SHA1: a427bac2fd25a88ad65efb3615fc000acf17924e
 SHA256: c557a2924a2f090b0851da1ccb28b440b57bd3d9bd1447ad869f85f89c673557
 SHA512: 734a53221dd36cedf7423274598e2a209b768114387760720c3fe686e6cec25b0c96eeb7452a7304bf940c4d6e05a8099e73a846a58bb33c32fa2f6e9152a2da
 
+Package: ml.kurdpaxsh.a-bypass
+Name: A-Bypass
+Description: Super Jailbreak detection bypass!
+Size: 32148
+Version: 1.0.7
+Section: System
+Author: KurdPaxsh
+Maintainer: Sizar
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Architecture: iphoneos-arm
+Filename: ./debfiles/ml.kurdpaxsh.a-bypass_1.0.7_iphoneos-arm.deb
+Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.a-bypass
+Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.a-bypass
+Icon: file:///Library/PreferenceBundles/ABypassPrefs.bundle/icon@2x.png
+MD5sum: c1de5b6e168d3ade4716870840239838
+SHA1: 57fa8a633352cdd06197c49bf79bfc55cf95af34
+SHA256: 8124d5016cef12489d36b1ec4628bc80c00c9af1b0ddb0df3b727c7a5a3b83d8
+SHA512: 58c770c951d60da1e2ce2a77409d8fe2917d0992853ce673a771e5fd07016942bd950744d0475b62b8acb6791e59b02a2d59688f7a93f17e2451147003f82d9a
+
 Package: ml.kurdpaxsh.choicy
 Name: Choicy
 Description: Advanced Tweak Configuration!
