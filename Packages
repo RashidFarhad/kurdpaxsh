@@ -50,10 +50,10 @@ Homepage: http://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.istec
 Depiction: http://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.istec
 Icon: file:///Library/PreferenceBundles/slideriprefs.bundle/iconlarge@2x.png
 Architecture: iphoneos-arm
-MD5sum: 9fc088705af3eef64791a73ee13f686e
-SHA1: d7b55219706a977e980210f2e8412780a61cb5f1
-SHA256: 342d4aeabc08f41a5edd55b97d7541326e7782b35e205c4b192a809459956732
-SHA512: 4e1397af5ffae40b8fbaa7011ab2bd786deabe733402cd2e28ec4e58aa2d41c7fd4508e9d7ef938ef2d13aeddb939ac0d0d748af1a71a8d67bf1eb3ef8de0c42
+MD5sum: 9c00ac4c7392f0291744eae546f99d8a
+SHA1: f42fad547b97b1f108dccbc5af5cfdf5d40cbae3
+SHA256: 6a2062b671df753a704957880a3d1b3e0212d505119c02fe9fa56aff5cf487ac
+SHA512: 54ae44d8eda7dcd5050065dec35487a2f8dc67a3d9cb5040974ab4fa3991143c669e4675aba00ffa8b79f57a53afabe276a5877c42a9eb8dc0906f9a985c5c39
 
 Package: ml.kurdpaxsh.antiban
 Name: Antiban 0.18.0
@@ -164,10 +164,10 @@ Filename: ./debfiles/ml.kurdpaxsh.flyjb_0.2.5.3_iphoneos-arm.deb
 Homepage: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.flyjb
 Depiction: https://kurdpaxsh.ml/description.html?p=ml.kurdpaxsh.flyjb
 Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
-MD5sum: bc221973a21d27e4429106b0b28960b7
-SHA1: fef189b4938bad95c585036950f60495b891e192
-SHA256: 2cd251f64282fb5dea62aa6f7e11954d7fe8b6c35aed9423e0881dd3a1a716f6
-SHA512: 66b63a85426f290f47fafb8cb80add3072319d463c44e4348d32157588cd725ad31033d6b2801ac0e7280ee18d95d15a0a5d0e454b6ce8a3f9080de26b916a09
+MD5sum: 5a1fa15c06ff7e2ee07658713dbdcb11
+SHA1: b17cf591490d729e4564b5f4dd571558d9550557
+SHA256: 3f58041446b0f04260004537325b426c189b3e6fe14a87d8a78253efea993e52
+SHA512: 6ee38507a4f543a81ac693eba6f1d4a656e043863a56d33da53f781b5d2e6e533fe389684e4615eb245a459ee5f70e3d782aa61faddb63eb388c649071b9544f
 
 Package: ml.kurdpaxsh.a-bypass
 Name: A-Bypass
